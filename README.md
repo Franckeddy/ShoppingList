@@ -1,5 +1,7 @@
 # React App - Create a Shopping List
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bdeb9e7428804277b1e172d20b9eb2b1)](https://app.codacy.com/gh/Franckeddy/ShoppingList?utm_source=github.com&utm_medium=referral&utm_content=Franckeddy/ShoppingList&utm_campaign=Badge_Grade_Settings)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
